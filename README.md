@@ -36,7 +36,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networ
 ## Workers 部署方法 [视频教程](https://www.youtube.com/watch?v=LeT4jQUh8ok&t=83s)
 1. 部署 CF Worker：
    - 在 CF Worker 控制台中创建一个新的 Worker。
-   - 将 [worker.js](https://github.com/cmliu/edgetunnel/blob/main/_worker.js) 的内容粘贴到 Worker 编辑器中。
+   - 将 [worker.js](https://github.com/lifuaini2019/edgetunnel/blob/main/_worker.js) 的内容粘贴到 Worker 编辑器中。
    - 将第 7 行 `userID` 修改成你自己的 **UUID** 。
 
 2. 访问订阅内容：
